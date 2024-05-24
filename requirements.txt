@@ -1,6 +1,0 @@
-sphinx
-sphinx-autobuild
-ipykernel
-nbsphinx>=0.4
-insipid-sphinx-theme
-sphinx_autodoc_typehints
