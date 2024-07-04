@@ -2,8 +2,8 @@
    
 |Stars| |PyPI| |PyPIDownloads| |Docs| 
 
-.. |Stars| image:: https://img.shields.io/github/stars/zhangqf-lab/SPACE?logo=GitHub&color=yellow
-   :target: https://github.com/Lzcstan/STACCI
+.. |Stars| image:: https://img.shields.io/github/stars/STCaser/STCase?logo=GitHub&color=yellow
+   :target: https://github.com/STCaser/STCase
 .. |PyPI| image:: https://img.shields.io/pypi/v/STACCI.svg
    :target: https://pypi.org/project/STACCI
 .. |PyPIDownloads| image:: https://pepy.tech/badge/STACCI
@@ -27,6 +27,5 @@ Spatial Transcriptomics Analysis for Cell-Cell Interactions
 
 Indices and tables
 ==================
-
-* :ref:`genindex`
+* :ref:`toc`
 * :ref:`search`
