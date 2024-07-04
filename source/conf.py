@@ -26,4 +26,10 @@ exclude_patterns = ['.DS_Store']
 
 html_theme = 'insipid'
 html_static_path = ['_static']
-html_domain_indices = False
+html_sidebars = {
+   '**': [
+       'github-badge.html',  # Custom template, see _templates/
+       'home.html',
+       'globaltoc.html',
+   ]
+}

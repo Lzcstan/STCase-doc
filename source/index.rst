@@ -24,8 +24,3 @@ Spatial Transcriptomics Analysis for Cell-Cell Interactions
    :hidden:
 
    tutorial/index
-
-Indices and tables
-==================
-* :ref:`toctree`
-* :ref:`search`
