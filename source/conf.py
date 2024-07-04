@@ -26,3 +26,4 @@ exclude_patterns = ['.DS_Store']
 
 html_theme = 'insipid'
 html_static_path = ['_static']
+html_css_files = ['custom.css']
