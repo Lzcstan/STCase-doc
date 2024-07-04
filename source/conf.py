@@ -28,8 +28,13 @@ html_theme = 'insipid'
 html_static_path = ['_static']
 html_sidebars = {
    '**': [
-       'github-badge.html',  # Custom template, see _templates/
+       # 'github-badge.html',  # Custom template, see _templates/
        'home.html',
        'globaltoc.html',
-   ]
+   ],
+   'tutorial/index': [
+       # 'github-badge.html',  # Custom template, see _templates/
+       'home.html',
+       'globaltoc.html',
+   ],
 }
